@@ -1,0 +1,134 @@
+.everything {
+    max-width: 800px;
+    min-width: 600px;
+    justify-items: center;
+}
+
+a {
+    display: flex;
+    text-decoration: none;
+    font-family: 'Great Vibes', cursive;
+    justify-content: end;
+    font-size: 25px;
+    color: #2994b2;
+    background-color: #fffbe0;
+    padding-top: 30px;
+    padding-right: 20px;
+    margin-top: -10px;
+}
+
+h5 {
+    color: #2994b2;
+    background-color: #fffbe0;
+    padding-top: 50px;
+    padding-bottom: 70px;
+    margin-bottom: 0px;
+    margin-top: -16px;
+    text-align: center;
+    font-size: 55px;
+    font-family: 'Great Vibes', cursive;
+    font-weight: lighter;
+}
+
+.buttonsAndGuitar button {
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    font-size: 40px;
+    margin-bottom: 10px;
+    padding-right: 15px;
+    padding-top: 5px;
+    background-color: #ffb400;
+    font-family: 'Great Vibes', cursive;
+    font-weight:bolder;
+}
+
+.buttonsAndGuitar {
+    display: flex;
+    justify-content: space-between;
+    background-color: #fffbe0;
+    padding-bottom: 100px;
+}
+
+.leftButtons {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-top: 55px;
+    margin-left: 30px;
+    margin-right: 30px;
+    
+}
+
+.rightButtons {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-top: 55px;
+    margin-left: 30px;
+   
+    padding-right: 30px;
+}
+
+
+/* Begin Banjo CSS */
+
+
+
+.banjoEverything {
+    max-width: 800px;
+    min-width: 600px;
+    justify-items: center;
+}
+
+.buttonsAndBanjo button {
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    font-size: 40px;
+    margin-bottom: 10px;
+    padding-right: 15px;
+    padding-top: 5px;
+    background-color: #ffb400;
+    font-family: 'Great Vibes', cursive;
+    font-weight:bolder;
+}
+
+.buttonsAndBanjo {
+    display: flex;
+    justify-content: space-between;
+    background-color: #fffbe0;
+}
+
+.topButtons {
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+    margin-top: 80px;
+    margin-right: -100px;
+    
+}
+
+.bottomButton {
+    display: flex;
+    padding-top: 300px;
+    margin-left: 30px;
+    margin-right: -100px;
+}
+
+.banjoRightButtons {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-top: 80px;
+    padding-right: 40px;
+    margin-left: -100px;
+}
+
+.banjoPic {
+    background-color: #fffbe0;
+    margin-right: -400px;
+    margin-left: -400px;
+}
+
+
